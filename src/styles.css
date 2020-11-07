@@ -4,4 +4,20 @@
 }
 p {
   margin: 7px 0px;
+  color: white;
+}
+h1 {
+  margin: 7px 0px;
+  color: white;
+}
+h2 {
+  margin: 7px 0px;
+  color: white;
+}
+h3 {
+  margin: 7px 0px;
+  color: white;
+}
+body {
+  background: url("https://starwarsblog.starwars.com/wp-content/uploads/2020/04/star-wars-backgrounds-25.jpg");
 }
